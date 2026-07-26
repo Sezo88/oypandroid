@@ -1,0 +1,24 @@
+{
+  "appId": "com.okul.kitappaneli",
+  "appName": "Okul Kitap Paneli",
+  "webDir": "www",
+  "server": {
+    "url": "https://oyp.vercel.app",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "backgroundColor": "#0a0e1a",
+      "launchShowDuration": 800
+    },
+    "StatusBar": {
+      "backgroundColor": "#0a0e1a",
+      "style": "DARK"
+    },
+    "GoogleSignIn": {
+      "serverClientId": "516515680437-6s3kg74upeqau7eojdcu1t9di9ajnvha.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}
