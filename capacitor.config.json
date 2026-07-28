@@ -10,7 +10,7 @@
   "plugins": {
     "SplashScreen": {
       "backgroundColor": "#0a0e1a",
-      "launchShowDuration": 800
+      "launchAutoHide": false
     },
     "StatusBar": {
       "backgroundColor": "#0a0e1a",
