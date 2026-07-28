@@ -1,6 +1,6 @@
 {
   "appId": "com.okul.kitappaneli",
-  "appName": "Okul Kitap Paneli",
+  "appName": "Okul Yönetim Paneli",
   "webDir": "www",
   "server": {
     "url": "https://oyp.vercel.app",

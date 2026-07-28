@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Okul Kitap Paneli</string>
-    <string name="title_activity_main">Okul Kitap Paneli</string>
+    <string name="app_name">Okul Yönetim Paneli</string>
+    <string name="title_activity_main">Okul Yönetim Paneli</string>
     <string name="package_name">com.okul.kitappaneli</string>
     <string name="custom_url_scheme">com.okul.kitappaneli</string>
 </resources>
