@@ -2,6 +2,7 @@
   "appId": "com.okul.kitappaneli",
   "appName": "Okul Yönetim Paneli",
   "webDir": "www",
+  "backgroundColor": "#0a0e1a",
   "server": {
     "url": "https://oyp.vercel.app",
     "cleartext": false,
@@ -9,7 +10,7 @@
   },
   "plugins": {
     "SplashScreen": {
-      "backgroundColor": "#0f469d",
+      "backgroundColor": "#0a0e1a",
       "launchShowDuration": 3000,
       "launchAutoHide": true,
       "androidScaleType": "CENTER_CROP",
